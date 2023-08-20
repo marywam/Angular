@@ -1,0 +1,11 @@
+.form-area,
+.preview-area
+{
+    margin-top: 50px;
+    text-align: center;
+}
+
+.add-background{
+    background:#f1c40f !important ;
+    padding: 10px;
+}
